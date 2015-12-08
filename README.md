@@ -1,2 +1,2 @@
 # html5-bootstrap-resume
-Personal resume site with Responsive Design in HTML5, Bootstrap and JavaScript.
+Personal resume site in Responsive Design. Edited by NetBeans IDE. HTML5, Bootstrap and JavaScript.
